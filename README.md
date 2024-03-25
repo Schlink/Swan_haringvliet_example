@@ -1,0 +1,1 @@
+This repo stores the testing project of modeling the haringvliet case study using Simulating Waves Nearshore (SWAN). The unmeshed model is used (f32har01).The data downloaded is available from https://swanmodel.sourceforge.io/ under 'Test Cases'. 
